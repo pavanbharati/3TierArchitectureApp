@@ -49,6 +49,8 @@ Step 4
 Creation of App Tier Resources
 
 4.1. 
+sudo su
+cd /home/ec2-user
 In this instance we will do the App Server Setup and DB Server Configuration. Execute the below commands;
 Install MySQL
 sudo yum install mysql -y
